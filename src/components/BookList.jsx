@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { BookContext } from "../contexts/BookContext";
+import BookDetails from "./BookDetails";
 
 
 
