@@ -1,3 +1,4 @@
+import Navbar from './components/Navbar'
 import BookContextProvider from './contexts/BookContext'
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <BookContextProvider>
-
+      <Navbar/>
     </BookContextProvider>
   )
 }
