@@ -8,7 +8,7 @@ body {
   background: #553055;
 }
 
-.App {
+#root {
   background: #4c2a4c;
   margin: 20px auto;
   width: 90%;
